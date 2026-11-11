@@ -1,0 +1,8 @@
+/config/config.local.php
+.env
+.env.*
+!/config/config.example.php
+/storage/*
+!/storage/.gitkeep
+*.log
+*.sql.gz
